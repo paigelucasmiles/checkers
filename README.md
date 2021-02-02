@@ -26,7 +26,7 @@ White goes first!
 
 <h2>App Preview</h2>
 <b>Game Functionality</b>
-<img src="https://giphy.com/gifs/FLaUdf3JXr0Hf7a8gf" alt="Demonstration of checkers game functionality" border="0"><br><br>
+<img src="https://media.giphy.com/media/FLaUdf3JXr0Hf7a8gf/source.gif" alt="Demonstration of checkers game functionality" border="0"><br><br>
 
 <h2>User Stories</h2>
 
