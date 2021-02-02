@@ -24,12 +24,17 @@ You are now ready to start using the current iteration of this checkers app! Ple
 Once you have opened the project you will be prompted to login. If this is your first time using the app, you will need to click <b>create account</b>. After you've created an account you will be automatically logged in and the checkers board will appear on your screen.<br><br>
 White goes first!
 
+<h2>App Preview</h2>
+<b>Game Functionality</b>
+<img src="https://giphy.com/gifs/FLaUdf3JXr0Hf7a8gf" alt="Demonstration of Game Functionality" border="0"><br><br>
+
 <h2>User Stories</h2>
 
 <h3>As a user, you will be able to:</h3>
 
 <ol>
  <li>Select a single pawn when it is your turn.</li>
+ 
  <li>See that a pawn have been selected.</li>
  <li>See the legal moves available to a selected pawn.</li>
  <li>Deselect a pawn by clickling a selected pawn and visualize the deselection.</li>
