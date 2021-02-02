@@ -33,6 +33,7 @@ White goes first!
 <h3>As a user, you will be able to:</h3>
 
 <ol>
+ <li>Create and log in to an account.</li>
  <li>Select a single pawn when it is your turn.</li>
  <li>See that a pawn have been selected.</li>
  <li>See the legal moves available to a selected pawn.</li>
