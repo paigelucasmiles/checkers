@@ -26,7 +26,7 @@ White goes first!
 
 <h2>App Preview</h2>
 <b>Game Functionality</b>
-<img src="https://media.giphy.com/media/FLaUdf3JXr0Hf7a8gf/source.gif" alt="Demonstration of checkers game functionality" border="0"><br><br>
+<img src="https://media.giphy.com/media/FLaUdf3JXr0Hf7a8gf/source.gif" alt="Demonstration of checkers game functionality" border="0">
 
 <h2>User Stories</h2>
 
@@ -34,7 +34,6 @@ White goes first!
 
 <ol>
  <li>Select a single pawn when it is your turn.</li>
- 
  <li>See that a pawn have been selected.</li>
  <li>See the legal moves available to a selected pawn.</li>
  <li>Deselect a pawn by clickling a selected pawn and visualize the deselection.</li>
