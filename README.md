@@ -26,7 +26,7 @@ White goes first!
 
 <h2>App Preview</h2>
 <b>Game Functionality</b>
-<iframe src="https://giphy.com/embed/FLaUdf3JXr0Hf7a8gf" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/FLaUdf3JXr0Hf7a8gf">via GIPHY</a></p>
+<img src="https://giphy.com/gifs/FLaUdf3JXr0Hf7a8gf/html5" alt="Flip Pokemon Card" border="0"><br><br>
 
 <h2>User Stories</h2>
 
